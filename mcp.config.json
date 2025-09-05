@@ -1,0 +1,11 @@
+{
+  "resources": {
+    "figma": {
+      "url": "https://<your-vercel-app>.vercel.app/api/figma",
+      "endpoints": {
+        "getFile": "/",
+        "updateText": "/"
+      }
+    }
+  }
+}
